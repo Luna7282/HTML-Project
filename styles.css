@@ -44,4 +44,14 @@ main{
     margin:  5% 0;
 }
 
+.right_main{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
 
+}
+.point{
+    display: flex;
+    gap: 20px;
+}
